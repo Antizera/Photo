@@ -1,0 +1,15 @@
+D:\progi\LabaSCOI_1\LabaSCOI_1\bin\Debug\netcoreapp3.1\LabaSCOI_1.exe
+D:\progi\LabaSCOI_1\LabaSCOI_1\bin\Debug\netcoreapp3.1\LabaSCOI_1.deps.json
+D:\progi\LabaSCOI_1\LabaSCOI_1\bin\Debug\netcoreapp3.1\LabaSCOI_1.runtimeconfig.json
+D:\progi\LabaSCOI_1\LabaSCOI_1\bin\Debug\netcoreapp3.1\LabaSCOI_1.runtimeconfig.dev.json
+D:\progi\LabaSCOI_1\LabaSCOI_1\bin\Debug\netcoreapp3.1\LabaSCOI_1.dll
+D:\progi\LabaSCOI_1\LabaSCOI_1\bin\Debug\netcoreapp3.1\LabaSCOI_1.pdb
+D:\progi\LabaSCOI_1\LabaSCOI_1\obj\Debug\netcoreapp3.1\LabaSCOI_1.csprojAssemblyReference.cache
+D:\progi\LabaSCOI_1\LabaSCOI_1\obj\Debug\netcoreapp3.1\LabaSCOI_1.Form1.resources
+D:\progi\LabaSCOI_1\LabaSCOI_1\obj\Debug\netcoreapp3.1\LabaSCOI_1.csproj.GenerateResource.cache
+D:\progi\LabaSCOI_1\LabaSCOI_1\obj\Debug\netcoreapp3.1\LabaSCOI_1.AssemblyInfoInputs.cache
+D:\progi\LabaSCOI_1\LabaSCOI_1\obj\Debug\netcoreapp3.1\LabaSCOI_1.AssemblyInfo.cs
+D:\progi\LabaSCOI_1\LabaSCOI_1\obj\Debug\netcoreapp3.1\LabaSCOI_1.csproj.CoreCompileInputs.cache
+D:\progi\LabaSCOI_1\LabaSCOI_1\obj\Debug\netcoreapp3.1\LabaSCOI_1.dll
+D:\progi\LabaSCOI_1\LabaSCOI_1\obj\Debug\netcoreapp3.1\LabaSCOI_1.pdb
+D:\progi\LabaSCOI_1\LabaSCOI_1\obj\Debug\netcoreapp3.1\LabaSCOI_1.genruntimeconfig.cache
